@@ -1,0 +1,2 @@
+# Heist-Editor
+Heist editor is a simple, easy to use Lua script that allows you to modify the winnings for each player in a heist and much more!
